@@ -23,6 +23,31 @@ Currently, I'm focused on:
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amiya-09&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
+## 📈 Contribution Graph
+
+[![Amiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amiya-09&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🔥 GitHub Streak
 
 ![](https://streak-stats.demolab.com?user=amiya-09&theme=github-dark&hide_border=true)
+
+## ⭐ Featured Projects
+
+[![Expense Splitter](https://github-readme-stats.vercel.app/api/pin/?username=amiya-09&repo=Expense-Splitter&theme=github_dark)](...)
+
+[![PPFDaaS](...)](...)
+
+## 📚 Currently Learning
+
+- Spring Boot
+- Apache Kafka
+- Redis
+- AWS
+- Distributed Systems
+
+## 🎯 2026 Goals
+
+- Build production-grade backend systems
+- Cover Reactive Programming
+- Master Spring Boot ecosystem
+- Learn Kubernetes
